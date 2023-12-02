@@ -1,0 +1,108 @@
+const data=[
+    {
+    User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 1,
+        Phase: "Planning",
+        SNo: 1,
+        ProcedureName: "Sample Procedure",
+        RequiredDocumentForms: "Sample Document",
+        ISALocalLawReference: "ISA 123",
+        BriefDescription: "This is a sample description.",
+        Applicability: "Yes"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 2,
+        Phase: "Execution",
+        SNo: 1,
+        ProcedureName: "Sample Procedure",
+        RequiredDocumentForms: "Sample Document",
+        ISALocalLawReference: "ISA 123",
+        BriefDescription: "This is a sample description.",
+        Applicability: "Yes"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 3,
+        Phase: "Completion",
+        SNo: 1,
+        ProcedureName: "Sample Procedure",
+        RequiredDocumentForms: "Sample Document",
+        ISALocalLawReference: "ISA 123",
+        BriefDescription: "This is a sample description.",
+        Applicability: "Yes"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 11,
+        Phase: "Planning",
+        SNo: 3,
+        ProcedureName: "Is there any PEP match found identified in the search, were the PKF compliance team ensure the activation of the Ongoing Monitoring for the Client and the Individual who is identified as PEP according to the Firm's AML Enhance due diligence procedures?\n\n ",
+        RequiredDocumentForms: "Ongoing monitoring activation email from PKF compliance\n\n      Microsoft team request need to auto generated and will approved by concerned personnel",
+        ISALocalLawReference: "",
+        BriefDescription: "",
+        Applicability: "NA"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 12,
+        Phase: "Planning",
+        SNo: 4,
+        ProcedureName: "Did the engagement team create the trend entry for applicable entities?\n\n      Were the engagement ensure the TREND search has been done for Applicable entities? \n      \n      Trend Guidance is available at PKF GTM..",
+        RequiredDocumentForms: "Trend Screenshot",
+        ISALocalLawReference: "",
+        BriefDescription: "",
+        Applicability: "Yes"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 13,
+        Phase: "Completion",
+        SNo: 2,
+        ProcedureName: "In case of proposal for new entity, were the engagement team obtained and reviewed the following documents and should be documented in the file:\n\n      ·       Commercial Registration;\n      ·       Articles of association or By Laws;\n      ·       Memora",
+        RequiredDocumentForms: "All mentioned documents\n\n\n\n\n\n\n\n\n\n      World Check Response received from PKF Compliance",
+        ISALocalLawReference: "\"IESBA Code of Ethics,\n\n      Companies Law\"\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \"IESBA Code of Ethics\n      \n      ISQC 1 and ISA 220\"",
+        BriefDescription: "",
+        Applicability: "NA"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 14,
+        Phase: "Planning",
+        SNo: 10,
+        ProcedureName: "Did the audit engagement partner consider whether it is appropriate to discuss with prospective client management and/or those charged with governance any significant matters arising and any safeguards which are to be put in place to eliminate any threat ",
+        RequiredDocumentForms: "Minutes of the meeting or memo for the discussion held with previous auditor",
+        ISALocalLawReference: "\"IESBA Code of Ethics,\n      ISA 200,\n      ISA 220 \"",
+        BriefDescription: "",
+        Applicability: "NA"
+    },
+    {
+        User_ID: 1,
+        FirstName: "tim",
+        LastName: "david",
+        QuestionID: 15,
+        Phase: "Execution",
+        SNo: 1,
+        ProcedureName: "Before issuing the proposal/consent to act as auditor for the audit services to the entity, Were the engagement team submitted the conflict of interest with the partner and senior directors to ensure that there is no conflict of interest exist? \n\n      On",
+        RequiredDocumentForms: "\"Reponses from PKF\n      compliance on COI\"",
+        ISALocalLawReference: "IESBA Code of Ethics",
+        BriefDescription: "",
+        Applicability: "NA"
+    },
+]
+
+export default data;
